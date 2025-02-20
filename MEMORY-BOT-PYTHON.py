@@ -1,7 +1,7 @@
 '''
 This program learns responses to questions from the user,
 saves them into a .txt file, and repeats the answer when 
-the question is asked again.     
+the question is asked again.
 '''
 
 # saves the user's name as variable 'userName'
