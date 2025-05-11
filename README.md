@@ -1,4 +1,4 @@
-# memoory-bot-python
+# memory-bot-python
 
 ## Purpose
 This program is mwant to serve as a baseline for a no-cloud personal assistant system caapble of solving problems without the need to be connected to the internet.  
