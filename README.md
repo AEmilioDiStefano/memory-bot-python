@@ -11,7 +11,4 @@ This first version of the cloudless personal assistant system is called memory-b
 - allow the user to save answers to new questions into the system
 - maintain a conversational tone with the user while reading and writing data
 
-- 
-
-
 
